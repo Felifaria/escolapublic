@@ -1,0 +1,67 @@
+{
+  "agenda": {
+    "turma": "4°C",
+    "titulo": "Agenda de Provas e Eventos",
+    "eventos": [
+      {
+        "data": "27 a 31/Out",
+        "tipo": "Prova",
+        "disciplina": "Inglês",
+        "detalhe": "(S)"
+      },
+      {
+        "data": "20/Nov",
+        "tipo": "Prova",
+        "disciplina": "Inglês",
+        "detalhe": "(LRW)"
+      },
+      {
+        "data": "27/Nov",
+        "tipo": "Prova",
+        "disciplina": "Português",
+        "detalhe": null
+      },
+      {
+        "data": "02/Dez",
+        "tipo": "Prova",
+        "disciplina": "Estudo Meio",
+        "detalhe": null
+      },
+      {
+        "data": "04/Dez",
+        "tipo": "Prova",
+        "disciplina": "Matemática",
+        "detalhe": null
+      },
+      {
+        "data": "12/Dez",
+        "tipo": "Evento",
+        "disciplina": "Fim do 1° Período",
+        "detalhe": "Natal"
+      }
+    ]
+  },
+  "calendario_escolar": {
+    "ano_letivo": "2025/26",
+    "periodos": [
+      {
+        "periodo": "1°",
+        "inicio": "15/Set",
+        "fim": "12/Dez",
+        "simbolo": "Natal"
+      },
+      {
+        "periodo": "2°",
+        "inicio": "05/Jan",
+        "fim": "27/Mar",
+        "simbolo": "Páscoa"
+      },
+      {
+        "periodo": "3°",
+        "inicio": "15/Abr",
+        "fim": "30/Jun",
+        "simbolo": null
+      }
+    ]
+  }
+}

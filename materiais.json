@@ -1,0 +1,155 @@
+{
+  "documento": {
+    "tipo": "Folheto Informativo",
+    "para_alunos": "4.º Ano",
+    "ciclo": "1.º Ciclo do Ensino Básico (CEB)",
+    "ano_letivo": "2025/26",
+    "escola": "Colégio S. Francisco de Assis Luanda Sul (CSFA)"
+  },
+  "mensagem_direcao": {
+    "parabens": "Parabéns, já vês a meta do 1.º CEB!",
+    "texto": "Falta apenas um ano para terminar este ciclo de 4. As diferenças são mínimas, mas com muita dedicação, empenho, resiliência e não menos importante, felicidade, irás conseguir atingir tudo aquilo a que te propões, nunca esquecendo que estamos cá para te apoiar!",
+    "assinatura": "Direção Pedagógica do CSFA Luanda Sul"
+  },
+  "manuais_escolares": {
+    "nota_aquisição": "A aquisição de manuais deve ser efetuada externamente.",
+    "disciplinas": [
+      {
+        "disciplina": "Português",
+        "manual_1": "Missão Zupi 4",
+        "isbn_1": "978-972-0-11314-6",
+        "manual_2": "Missão Zupi 4 - Livro de Fichas",
+        "isbn_2": "978-972-0-11311-5",
+        "editora": "Porto Editora"
+      },
+      {
+        "disciplina": "Matemática",
+        "manual_1": "Missão Zupi 4",
+        "isbn_1": "978-972-0-11315-3",
+        "manual_2": "Missão Zupi 4 - Livro de Fichas",
+        "isbn_2": "978-972-0-11312-2",
+        "editora": "Porto Editora"
+      },
+      {
+        "disciplina": "Estudo do Meio",
+        "manual_1": "Missão Zupi 4",
+        "isbn_1": "978-972-0-11316-0",
+        "manual_2": "Missão Zupi 4 - Livro de Fichas",
+        "isbn_2": "978-972-0-11313-9",
+        "editora": "Porto Editora"
+      },
+      {
+        "disciplina": "Inglês",
+        "manual_1": "Easy-Peasy English 4",
+        "isbn_1": "978-972-0-11309-2",
+        "manual_2": "Easy-Peasy English 4 - Student's File",
+        "isbn_2": "978-972-0-11310-8",
+        "editora": "Porto Editora"
+      }
+    ],
+    "materiais_adicionais": [
+      {
+        "item": "Dicionário Moderno da Língua Portuguesa",
+        "editora": "Porto Editora",
+        "isbn": "978-972-0-00250-1",
+        "uso_adicional": null
+      },
+      {
+        "item": "A Gramática - Português - 1.º Ciclo",
+        "editora": "Porto Editora",
+        "isbn": "978-972-0-72684-1",
+        "autores": ["Maria Helena Marques", "Maria Regina Rocha"],
+        "uso_adicional": "Novos Alunos"
+      },
+      {
+        "item": "A Gramática - Exercícios - 4.º ano",
+        "editora": "Porto Editora",
+        "isbn": "978-972-0-72686-5",
+        "uso_adicional": null
+      },
+      {
+        "item": "Oxford Junior Illustrated Dictionary",
+        "editora": "Oxford University Press",
+        "isbn": "978-019-2-76723-3",
+        "uso_adicional": "Instrumento de consulta autónoma"
+      }
+    ],
+    "plano_nacional_leitura": [
+      {
+        "titulo": "Portugal para Miúdos",
+        "autor": "José Jorge Letria",
+        "editora": "Texto Editores",
+        "isbn": "978-972-4-74285-4"
+      },
+      {
+        "titulo": "O Gigante Egoísta e O Príncipe Feliz",
+        "autor": "Oscar Wilde",
+        "editora": "Porto Editora",
+        "isbn": "978-972-0-72684-1"
+      },
+      {
+        "titulo": "Seleção de Contos de Andersen",
+        "autor": "Hans Christian Andersen",
+        "editora": "Porto Editora",
+        "isbn": "978-972-0-72686-5"
+      }
+    ]
+  },
+  "material_escolar_obrigatorio": {
+    "escrita_e_pintura": [
+      {"item": "Caixa de 12 lápis de cor finos", "quantidade": 1},
+      {"item": "Caixa de 12 canetas de feltro com bico fino", "quantidade": 1},
+      {"item": "Caixa de 12 lápis de cera finos", "quantidade": 1},
+      {"item": "Lápis HB nº 2", "quantidade": 5},
+      {"item": "Esferográfica ponta fina verde", "quantidade": 1},
+      {"item": "Esferográfica ponta fina azul", "quantidade": 1},
+      {"item": "Esferográfica ponta fina preta", "quantidade": 1},
+      {"item": "Aguarelas", "quantidade": 1},
+      {"item": "Guaches", "quantidade": 1},
+      {"item": "Pincel n.º 10", "quantidade": 1}
+    ],
+    "cadernos_e_organizacao": [
+      {"item": "Caderno A4 pautado, sem argolas", "quantidade": 4},
+      {"item": "Caderno A4 quadriculado, sem argolas", "quantidade": 2},
+      {"item": "Caderno de Música", "quantidade": 1},
+      {"item": "Dossiê lombada larga A4, com duas argolas", "quantidade": 1},
+      {"item": "Capa de Elásticos, tamanho A4", "quantidade": 2},
+      {"item": "Micas", "quantidade": 20},
+      {"item": "Pendrive", "quantidade": 1}
+    ],
+    "arte_e_outros": [
+      {"item": "Afia com depósito para as aparas", "quantidade": 1},
+      {"item": "Borracha branca de lápis", "quantidade": 3},
+      {"item": "Bloco de papel de lustro A4", "quantidade": 1},
+      {"item": "Bloco de papel cavalinho A4", "quantidade": 1},
+      {"item": "Tesoura de pontas redondas", "quantidade": 1},
+      {"item": "Tubos de cola UHU de stick", "quantidade": 5},
+      {"item": "Tubos de cola UHU de bisnaga", "quantidade": 5},
+      {"item": "Fita-cola", "quantidade": 1},
+      {"item": "Régua de 20 cm", "quantidade": 1},
+      {"item": "Compasso", "quantidade": 1},
+      {"item": "Embalagem de plasticina", "quantidade": 1},
+      {"item": "T-Shirt branca lisa", "quantidade": 1},
+      {"item": "Flauta Soprano", "quantidade": 1},
+      {"item": "Tela A3", "quantidade": 1},
+      {"item": "Capelo (chapéu de finalista)", "quantidade": 1},
+      {"item": "Cantil", "quantidade": 1},
+      {"item": "Repelente de insetos", "quantidade": 1}
+    ]
+  },
+  "uniforme_e_educacao_fisica": {
+    "uniforme_escolar": {
+      "peças": ["Polo", "Casaco", "Saia", "Calção"],
+      "onde_adquirir": "Encontram-se disponíveis na secretaria do CSFA Luanda Sul."
+    },
+    "educacao_fisica": {
+      "uniforme": "Uniforme de Educação Física",
+      "tenis_apropriados": {
+        "item": "Ténis apropriados à prática desportiva em gimnodesportivo",
+        "uso": "Unicamente para uso nas aulas de Educação Física",
+        "exclusoes": ["Ténis de uso casual ou lifestyle", "Converse", "Stand Smith", "Air Jordan", "Force"],
+        "recomendacao": "Aconselha-se ténis de estilo running, mais adequados e versáteis à prática desportiva."
+      }
+    }
+  }
+}

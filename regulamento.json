@@ -1,0 +1,165 @@
+{
+  "titulo_documento": "Regulamentos da Escola - Ano Letivo 2025/2026 – Normas Administrativas",
+  "colegio": "Colégio S. Francisco de Assis Luanda Sul (CSFA)",
+  "data_emissao": "Talatona, 21 de maio de 2025",
+  "nota_importante": "A leitura deste documento não dispensa a leitura e o conhecimento do teor do Regulamento Interno do CSFA.",
+  "contactos_secretaria": {
+    "area_alunos": {
+      "responsaveis": ["Sandra Venâncio", "Rosa Alfredo", "Elsa Figueira"],
+      "telefone": ["222 402 818", "940 831 592"],
+      "email": "secretaria@csfa-luanda.com"
+    },
+    "area_financeira": {
+      "responsaveis": ["Cátia Esteves", "Janete Pires", "Flávio José"],
+      "telefone": ["222 402 820", "942 848 592"],
+      "email": "faturacao@csfa-luanda.com"
+    }
+  },
+  "normas_administrativas": {
+    "i_inscricao": {
+      "titulo": "Renovação de Inscrição e Inscrição",
+      "renovacao_atuais_alunos": {
+        "titulo": "Renovação de Inscrição (Atuais Alunos)",
+        "periodo": "21 de maio a 5 de junho de 2025",
+        "pagamento": "Totalidade do valor até 5 de junho de 2025 (inclusive).",
+        "condicao": "Obriga ao pagamento total no prazo e à regularização da conta corrente, sob pena de não aceitação da renovação e a vaga ficar disponível."
+      },
+      "inscricao_novos_alunos": {
+        "titulo": "Inscrição (Novos Alunos)",
+        "prazos": "Definidos aquando da comunicação de atribuição de vaga.",
+        "validacao": "Somente validada com o envio do comprovativo de pagamento de 100% do valor da inscrição.",
+        "consequencia_falha_pagamento": "Se a inscrição não for aceite por falta de comprovativo/pagamento total no prazo, o Colégio considera a vaga disponível.",
+        "politica_descontos_irmaos": {
+          "titulo": "Política de Descontos no valor da propina trimestral (Irmãos de atuais alunos)",
+          "descontos": [
+            {"irmao": "1º", "desconto_propina_trimestral": "5%"},
+            {"irmao": "2º", "desconto_propina_trimestral": "15%"},
+            {"irmao": "3º (e seguintes)", "desconto_propina_trimestral": "20%"}
+          ]
+        }
+      }
+    },
+    "ii_processos_administrativos": {
+      "titulo": "Processos Administrativos: Matrícula e Renovação de Matrícula",
+      "matricula": {
+        "titulo": "Matrícula (Ingresso pela primeira vez)",
+        "aplicacao": [
+          "Educação Pré-Escolar (3, 4 e 5 anos).",
+          "1.º Ciclo do Ensino Básico (1.º ano de escolaridade).",
+          "Qualquer ano de escolaridade, para candidatos com habilitações de currículo não português."
+        ],
+        "periodos": [
+          {
+            "quem": "Novos alunos de 3, 4 e 5 anos (Pré-Escolar); novos alunos 1º ano CSFA; novos alunos (Ensino Básico e Secundário) com habilitações de currículo não português.",
+            "quando": "Durante o mês de julho"
+          },
+          {
+            "quem": "Atuais alunos dos 5 anos que irão ingressar no 1.º ano de escolaridade.",
+            "quando": "1 a 16 de julho"
+          }
+        ],
+        "documentos": [
+          "Impresso de Matrícula devidamente preenchido.",
+          "Declaração de aceitação do Regulamento Interno do Colégio.",
+          "Fotocópia do Documento de identificação (Cartão de Cidadão para nacionalidade Portuguesa, Passaporte para restantes).",
+          "Fotocópia do Cartão de Vacinas atualizado.",
+          "Uma fotografia tipo passe (para novos alunos).",
+          "Atestado médico conferindo que o aluno não sofre de qualquer doença infetocontagiosa (alunos da Educação Pré-Escolar e do 1.º CEB).",
+          "Para novos alunos, original do Certificado de Habilitações (a partir do 2.º ano, inclusive) ou cópia autenticada pelo estabelecimento de educação frequentado.",
+          "Alunos provenientes de currículo não português (1.º ao 8.º ano): comprovativo da habilitação anterior (traduzido e autenticado pela embaixada/consulado de Portugal) – regime de posicionamento escolar simplificado (DL n.º 7/2025, de 11/Fev).",
+          "Alunos provenientes de currículo não português (certificação formal - 9.º ano com diploma, acesso secundário, etc.): requerer equivalência de habilitações (DL n.º 227/2005, de 28/Dez) via modelo próprio da Secretaria.",
+          "Outros documentos considerados relevantes."
+        ]
+      },
+      "renovacao_matricula": {
+        "titulo": "Renovação de Matrícula (Anos subsequentes à Matrícula)",
+        "aplicacao": [
+          "Educação Pré-Escolar (anos subsequentes ao da matrícula, até à idade de ingresso na escolaridade obrigatória).",
+          "Anos escolares subsequentes à primeira matrícula: do 1.º ano do 1.º ciclo do ensino básico até à conclusão do ensino secundário."
+        ],
+        "periodos": [
+          {
+            "quem": "Novos alunos do ensino básico e secundário, à exceção do 1.º ano de escolaridade.",
+            "quando": "Durante o mês de julho"
+          },
+          {
+            "quem": "Atuais alunos da Educação Pré-Escolar (3 e 4 anos) e para alunos do Ensino Básico e Secundário, à exceção do 1º ano de escolaridade.",
+            "quando": "1 a 16 de julho"
+          },
+          {
+            "condicao": "Alunos dos 9.º e 11.º anos de escolaridade com matrícula condicionada até à saída dos resultados dos Exames Nacionais e/ou Provas de Equivalência à Frequência."
+          }
+        ],
+        "documentos": [
+          "Impresso de Renovação de Matrícula devidamente preenchido.",
+          "Fotocópia do Documento de identificação (Cartão de Cidadão para nacionalidade Portuguesa, Passaporte para restantes).",
+          "Fotocópia do Cartão de Vacinas atualizado.",
+          "Atestado médico conferindo que o aluno não sofre de qualquer doença infetocontagiosa (alunos da Educação Pré-Escolar e do 1.º CEB)."
+        ]
+      }
+    },
+    "iii_pagamentos_deducoes": {
+      "titulo": "Pagamentos e Deduções",
+      "modalidades_pagamento_servicos_obrigatorios": [
+        {
+          "modalidade": "Anual",
+          "detalhes": "Uma única prestação a liquidar de 1 a 16 de setembro, com 5% de desconto sobre o valor global das Propinas (Trimestres).",
+          "condicao_desconto": "Opção formalizada até 31 de julho 2025."
+        },
+        {
+          "modalidade": "Trimestral",
+          "detalhes": "Em três prestações, pagas:",
+          "prazos": [
+            "01 a 16 de setembro (1.º período letivo)",
+            "01 a 16 de dezembro (2.º período letivo)",
+            "24 de março a 8 de abril (3.º período letivo)"
+          ]
+        }
+      ],
+      "comprovativos_pagamento": "Pagamentos só considerados efetuados após a apresentação dos respetivos comprovativos dentro dos prazos, exceto se efetuado por referência de pagamento indicada na fatura.",
+      "nao_frequencia": "Não haverá redução nas prestações pela não frequência das aulas, qualquer que seja o motivo (de acordo com o “Contrato de Prestação de Serviços”).",
+      "incumprimento_pagamento": "O não pagamento das trimestralidades (serviços obrigatórios e facultativos) implica penalização de 30% da dívida, além da suspensão automática da frequência.",
+      "anulacao_matricula_atraso": "Atraso superior a 3 semanas consecutivas pode levar à anulação da matrícula pelo Colégio, sem direito a indemnização.",
+      "desconto_irmaos_propina_trimestral": "Redução de 5% para o primeiro irmão, 15% para o segundo e 20% a partir do terceiro irmão que frequente o Colégio. Este desconto não se aplica ao primeiro filho inscrito.",
+      "condicao_novo_periodo": "Nenhum aluno pode frequentar um novo período letivo ou iniciar um novo ano escolar sem que todas as despesas anteriores estejam liquidadas.",
+      "pagamento_inscricao_em_curso": {
+        "1_periodo": "Pagamento integral do valor da inscrição.",
+        "2_periodo": "Pagamento de 60% do valor da inscrição.",
+        "3_periodo": "Pagamento de 40% do valor da inscrição."
+      },
+      "pagamento_periodo_em_curso": "Inscrição efetuada no decurso de qualquer período letivo corresponde ao pagamento integral do valor do referido período em curso.",
+      "pagamento_servicos_facultativos": "O pagamento de serviços facultativos (alimentação, prolongamento, serviços educativos facultativos) e outras aquisições só é considerado efetuado após a apresentação dos comprovativos dentro dos prazos, exceto se efetuado por referência de pagamento na fatura."
+    },
+    "iv_alteracao_servicos_facultativos": {
+      "titulo": "Alteração de Serviços Facultativos",
+      "mudanca_modalidade": "Interdita a mudança de modalidade (alimentação, prolongamento, outros) durante o período letivo, exceto por motivo imponderável e de força maior, apreciado pela direção.",
+      "desistencia_reembolso": "A desistência de modalidades de serviços facultativos não dá direito a reembolso nem permite redução nos valores trimestrais a liquidar.",
+      "comunicacao_alteracao": "Qualquer alteração e/ou anulação para o período letivo seguinte deve ser comunicada por escrito à secretaria com **mínimo de 20 dias de antecedência** do término do período letivo em curso, entrando em vigor no primeiro dia do trimestre seguinte."
+    },
+    "v_cessacao_frequencia": {
+      "titulo": "Cessação de Frequência",
+      "iniciativa_encarregado_educacao": {
+        "titulo": "Cessação por iniciativa do Encarregado de Educação",
+        "comunicacao": "Comunicação à Direção com antecedência de **30 dias** face à produção dos seus efeitos, em impresso próprio, com os motivos.",
+        "reembolso_antes_aulas": "Desistência após matrícula, mas **antes do 1º dia de aulas**: devolução de 75% do valor pago (exceto material), *somente* nas situações comprovadas de doença grave do aluno/familiar ou mudança de residência para fora da Província de Luanda.",
+        "prazo_reembolso": "Pedidos de reembolso devem ser apresentados por escrito **até ao primeiro dia de aulas do 1º período**.",
+        "desistencia_apos_aulas": "Desistência após o início das atividades: em nenhuma situação são devolvidas verbas já liquidadas, sendo cobrada a totalidade das prestações relativas ao período letivo já iniciado."
+      },
+      "iniciativa_direcao": {
+        "titulo": "Cessação por iniciativa da Direção",
+        "situacoes": "Pode ocorrer nas situações previstas no Regulamento Interno.",
+        "reembolso": "Não dá direito a qualquer reembolso das verbas liquidadas, devendo ser pagas integralmente todas as prestações relativas ao período letivo já iniciado."
+      }
+    },
+    "vi_alteracoes_autoridades_publicas": {
+      "titulo": "Alterações motivadas pela decisão de Autoridades Públicas",
+      "condicao": "Imposição de suspensão de atividades presenciais, diminuição do currículo ou outras que alterem o tempo ou modo de prestação do serviço educativo.",
+      "efeito": "Não confere ao Encarregado de Educação o direito a pedir redução da anuidade/trimestralidade (serviços obrigatórios e facultativos)."
+    },
+    "vii_precaro_regulamento_interno": {
+      "titulo": "Preçário e Regulamento Interno",
+      "consulta": "O **Preçário** e o **Regulamento Interno** (atualizado) encontram-se afixados e podem ser consultados na Secretaria do Colégio.",
+      "divulgacao": "Estes documentos são dados a conhecer aos Pais/EE em formato digital, sendo o seu conhecimento obrigatório."
+    }
+  }
+}
